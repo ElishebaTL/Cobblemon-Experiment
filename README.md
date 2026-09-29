@@ -23,6 +23,13 @@ This pack is distributed as a Modrinth `.mrpack`.
 The pack already includes its required configs, datapacks, resource packs and shader packs.
 
 ---
+## Multiplayer
+
+Cobblemon Experiment includes **Essential** for easy multiplayer hosting with friends.
+
+This allows players to invite friends directly into their world without setting up a dedicated server.
+
+For larger or persistent multiplayer worlds, a dedicated Fabric server is still recommended.
 
 # Datapacks
 
